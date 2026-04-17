@@ -1,0 +1,10 @@
+.cph
+.vscode
+
+*.log
+*.tmp
+*.txt
+*.exe
+*.dll
+
+
